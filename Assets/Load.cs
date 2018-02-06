@@ -13,4 +13,9 @@ public class Load : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    public void LoadMap()
+    {
+
+    }
 }

@@ -13,4 +13,9 @@ public class Save : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    public void SaveMap()
+    {
+
+    }
 }
